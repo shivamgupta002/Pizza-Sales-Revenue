@@ -12,3 +12,21 @@ This project analyzes pizza sales data using SQL. It focuses on deriving meaning
 
 ---
 
+## 📂 Project Structure
+- README.md
+- SQL Queries
+  - Basic
+  - Intermediate
+  - Advanced
+- Sample Data (if available)
+- Documentation
+
+## 🚀 Key Learnings
+- Query optimization and efficient data retrieval.
+- Insights into revenue drivers and customer behavior.
+- Experience working with multiple related tables.
+
+## 🌟 Future Scope
+- Implementing visualizations for better presentation of insights.
+- Automating report generation using Python or BI tools.
+- Expanding analysis with additional business scenarios.
